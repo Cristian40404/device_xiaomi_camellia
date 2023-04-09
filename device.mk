@@ -464,4 +464,4 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, vendor/xiaomi/camellia/camellia-vendor.mk)
 
 # Adds the Gapps
-$(call inherit-product, vendor/gapps/basic/config.mk)
+#$(call inherit-product, vendor/gapps/basic/config.mk)
